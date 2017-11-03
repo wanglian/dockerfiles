@@ -11,6 +11,3 @@ RUN apt-get update
 
 # Install ImageMagick package
 RUN apt-get install -y imagemagick
-
-#install forever and phantomjs (optional for spiderable)
-RUN npm install --silent -g forever phantomjs

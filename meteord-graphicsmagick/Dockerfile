@@ -1,5 +1,5 @@
 ###############################################################################
-# Docker Runtime for Meteor Apps with ImageMagick
+# Docker Runtime for Meteor Apps with graphicsmagick
 # Based on MeteorD (https://github.com/meteorhacks/meteord)
 ###############################################################################
 

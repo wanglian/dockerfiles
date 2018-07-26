@@ -4,7 +4,7 @@
 ###############################################################################
 
 # Set the base image to MeteorD
-FROM abernix/meteord:base
+FROM abernix/meteord:node-8.11.2-base
 
 # Update the repository sources list
 RUN apt-get update
